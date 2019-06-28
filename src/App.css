@@ -1,0 +1,11 @@
+#post-list {
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: auto;
+}
+
+#post-container {
+    max-width: 826px;
+    margin: 112px auto 0 auto;
+}

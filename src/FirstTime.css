@@ -1,0 +1,11 @@
+#firstTimeMessage {
+    position: fixed;
+    width: 100%;
+    top: 175px;
+}
+
+#firstTimeMessage p, #firstTimeMessage h3 {
+    max-width: 604px;
+    margin: 0 auto;
+    padding: 0 48px;
+}

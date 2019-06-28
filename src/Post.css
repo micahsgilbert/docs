@@ -1,0 +1,12 @@
+.subtitle {
+    font-style: italic
+}
+
+.post {
+    overflow: hidden;
+    background-color: white;
+    padding: 0.5in;
+    min-height: 8.5in;
+    margin: 16px;
+    box-shadow: 1px 1px 5px #ccc;
+}

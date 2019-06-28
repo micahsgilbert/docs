@@ -1,0 +1,17 @@
+.selected {
+    font-weight: bold
+}
+
+.preview {
+    background-color: white;
+    border: none;
+    width: 350px;
+    padding: 2px;
+    margin: 4px 8px;
+    font-size: 14px;
+    text-align: left;
+}
+
+.preview:focus {
+    outline: none;
+}

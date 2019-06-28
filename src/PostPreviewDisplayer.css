@@ -1,0 +1,22 @@
+#logo {
+    background-color: white;
+    border: 0;
+    position: fixed;
+    top: 10px;
+    left: 16px;
+}
+
+#postDisplayer {
+    background-color: white;
+    position: fixed;
+    top: 64px;
+    left: 70px;
+    width: 400px;
+    overflow: auto;
+    border: 1px solid #eee;
+    border-radius: 8px;
+}
+
+#logo:focus {
+    outline: none;
+}

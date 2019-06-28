@@ -1,0 +1,15 @@
+#subChooser {
+    position: fixed;
+    top: 8px;
+    left: 71px;
+}
+
+#subChooser #text {
+    height: 24px;
+    font-size: 18px;
+    border: none;
+}
+
+#subChooser #text:focus {
+    outline: none
+}
